@@ -47,16 +47,11 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
         gtag: {
           trackingID: 'G-19R89V8VMJ',
           anonymizeIP: true,
         },
-      },
+      }),
     ],
   ],
   // Add a new "communityProjects" section
