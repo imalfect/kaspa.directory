@@ -23,6 +23,8 @@ Behind this progressive shift stands Dr. Yonatan Sompolinsky, a pioneering force
 Whether you are familiar with cryptocurrency as a Bitcoin follower, an Ethereum investor, or a blockchain newbie, "The Book of Kaspa" provides a fascinating exploration of this groundbreaking digital currency. Think of it as your VIP pass to the constantly evolving world of digital finance. As the blockchain world experiences a radical shift, Crowningshield invites you to the best seat in the house. Grab your copy now, and embark on a thrilling journey into the future of cryptocurrency.
 
 ## Images
-![Amazon Picture](https://media.discordapp.net/attachments/1138764714747363369/1139124004658086000/51MW7p5DyIL.png)
-![Book](https://media.discordapp.net/attachments/1138764714747363369/1139123725489410150/PXL_20230810_0909278442.jpg)
+<img src="https://media.discordapp.net/attachments/1138764714747363369/1139124004658086000/51MW7p5DyIL.png" alt="drawing" width="400"/>
+<br>
+</br>
+<img src="https://media.discordapp.net/attachments/1138764714747363369/1139123725489410150/PXL_20230810_0909278442.jpg" alt="drawing" width="500"/>
 
