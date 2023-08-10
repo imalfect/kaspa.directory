@@ -49,8 +49,17 @@ const config = {
         },
       }),
     ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-19R89V8VMJ',
+          anonymizeIP: true,
+        },
+      },
+    ],
   ],
-  // Add new "communityProjects" section
+  // Add a new "communityProjects" section
   plugins: [
     [
       '@docusaurus/plugin-content-docs',
