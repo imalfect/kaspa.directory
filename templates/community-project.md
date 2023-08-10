@@ -4,9 +4,9 @@
 # My Project
 
 ## Project Information
-[comment]: <> 
-(Feel free to remove fields that aren't applicable 
-to your project or add new ones)
+<!---
+Feel free to add/remove fields as you see fit.
+--->
 - Creator:
 - Category:
 - Created in
