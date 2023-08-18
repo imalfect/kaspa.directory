@@ -1,0 +1,10 @@
+{
+  "position": 3,
+  "label": "Finished",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}
