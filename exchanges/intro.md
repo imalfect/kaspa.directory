@@ -12,7 +12,6 @@ Kaspa is listed on many exchanges, in this section you can view and compare all 
 - [Bitget](https://bitget.com)
 - [MEXC](https://mexc.com)
 - [CoinEx](https://coinex.com)
-- [Txbit](https://txbit.io)
 - [LBank](https://lbank.com)
 - [BingX](https://bingx.com/)
 - [XT.com](https://xt.com)
