@@ -10,7 +10,7 @@ Every community member with a project idea and knowledge how to do it can reques
 The funds are collected in a multisig address, managed by the treasurers (more about treasurers in the community section).
 The funds are released to the project owner in a series of payments, based on the milestones that the project owner has defined.
 
-## How to request the creation of the funding pool?
+## How to request the creation of a funding pool?
 Usually, in order to create a funding pool, you should join [Kaspa's discord](https://discord.gg/kaspa), visit the
 #votes-and-funding-discussions channel, and post your proposal there. If the idea gains enough interest, a vote in the #votes channel is made.
 Once the vote passes, the funding pool is created and the community can donate to it.
