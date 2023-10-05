@@ -1,0 +1,27 @@
+import {Balance, Label, numberFormatter, getRemainingTime, Link} from "../../utilities/FundingPool.js";
+export const config = {
+    address: "kaspa:qphn7jh03zwjn4rveup09ev945v2glh3uulwlmcnzt3azrtd8vxhkuzhpz925",
+    goal: 240000,
+    endsAt: 0
+}
+export const goal = config.goal;
+
+# Community Marketing Fund Refill
+
+## Funding Pool Status
+<!---
+Feel free to add/remove fields as you see fit.
+--->
+- Creator: Rhubarbarian
+- Balance: <Balance address={config.address} />
+- Goal: <Label value={numberFormatter.format(config.goal)}/>
+- Remaining time: <Label value={getRemainingTime(config.endsAt)}/>
+- Address: <Link label={config.address} link={`https://kas.fyi/address/${config.address}`}/>
+## Description
+Throughout the following period we've produced over 500 posts for our social media channels, created 40+ videos for YouTube, and developed countless designs for community members, merchants and Ambassadors. We've successfully onboarded more than 30 Merchants (https://kaspa.org/all-listings) worldwide and 4 regional Ambassadors. We just released Kaspa Pitch Decks (see links below for details) for teaching at meetups and other educational events. Most recently, there was Shai's custom deck for his presentation in Hong Kong (see links below too).
+
+This Fall and early 2024, we're in the process of bringing on 6-8 Ambassadors from countries including Nigeria, Uganda, Canada, the USA, Korea, Austria, Turkey, and Australia.
+
+All this and much more info on marketing efforts and achievements, a discussion and reports, available at https://kaspatalk.org/viewtopic.php?t=28.
+
+All the details on this grant request breakdown you can find here https://kaspatalk.org/viewtopic.php?t=63.
