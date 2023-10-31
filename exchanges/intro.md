@@ -16,4 +16,3 @@ Kaspa is listed on many exchanges, in this section you can view and compare all 
 - [BingX](https://bingx.com/)
 - [XT.com](https://xt.com)
 - [DigiFinex](https://digifinex.com)
-- [Tradeogre](https://tradeogre.com)
