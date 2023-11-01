@@ -15,4 +15,3 @@ The goal is to raise **$5000 USD value in KAS** to cover co-marketing costs. It'
 Once the contributions have been secured, the $KAS will be used to airdrop at Bitpanda's discretion.
 
 This listing will fortify Kaspa's European stronghold and get us one step closer to our mission of inclusivity and accessibility. Thanks for your support and your contributions!
-![Screenshot](https://media.discordapp.net/attachments/1138764714747363369/1168818202965459014/image.png?ex=655325c7&is=6540b0c7&hm=777598776f7cc9c3a9582680a6ca1bea6fb8a22ad7fc2087702ae30012649989)
