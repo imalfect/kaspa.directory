@@ -32,5 +32,4 @@ How the components interact:
 * The clientside uses the response it received from the `api` REST server to update the UI
 
 ## Screenshots
-![One](https://i.imgur.com/cBwEnFp.png)
-![Two](https://i.imgur.com/bFrqPBX.png)
+![One](https://media.discordapp.net/attachments/1138764714747363369/1178086182022815804/image.png?ex=6574dd41&is=65626841&hm=634520f251c2bfd481d45bf53da1c7ec0196531d7c8561d8269c08db19a6db74)
