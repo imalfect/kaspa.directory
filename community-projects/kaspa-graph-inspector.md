@@ -1,17 +1,13 @@
 ---
 
 ---
-# My Project
+# Kaspa Graph Inspector
 
 ## Project Information
 <!---
 Feel free to add/remove fields as you see fit.
 --->
-- Creator:
-- Category:
-- Created in
-- Programming Language:
-- License:
+- Category: Utilities
 ## Links
 - [Webiste](https://kgi.kaspad.net/)
 
